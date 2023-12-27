@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamjcable
 - 👀 I’m interested in ... public policy, economics, voting rights, accountable tech
-- 🌱 I’m currently learning ... ML with Python, Stata, PowerShell, hoping to learn some R soon
-- 💞️ I’m looking to collaborate on ... any of the things I'm learning
+- 🌱 I’m currently learning ... ML and data science with Python and applied econometrics in Stata
+- 💞️ I’m looking to collaborate on ... anything ML or econometrics
 - 📫 How to reach me ... acable217@gmail.com
 
 <!---
